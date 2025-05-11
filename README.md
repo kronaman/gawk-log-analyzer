@@ -5,7 +5,7 @@
 See: https://roadmap.sh/projects/nginx-log-analyser
 
 ### Running the script
-##### 0. Install `gawk``
+##### 0. Install `gawk`
 ```bash
 brew install gawk
 ```
